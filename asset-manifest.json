@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ElwalidZair/myTodoApp.git/static/css/main.73082b5b.chunk.css",
+    "main.js": "/ElwalidZair/myTodoApp.git/static/js/main.92c54573.chunk.js",
+    "main.js.map": "/ElwalidZair/myTodoApp.git/static/js/main.92c54573.chunk.js.map",
+    "runtime-main.js": "/ElwalidZair/myTodoApp.git/static/js/runtime-main.bd99ea0b.js",
+    "runtime-main.js.map": "/ElwalidZair/myTodoApp.git/static/js/runtime-main.bd99ea0b.js.map",
+    "static/js/2.94b0d324.chunk.js": "/ElwalidZair/myTodoApp.git/static/js/2.94b0d324.chunk.js",
+    "static/js/2.94b0d324.chunk.js.map": "/ElwalidZair/myTodoApp.git/static/js/2.94b0d324.chunk.js.map",
+    "static/js/3.b9a1a641.chunk.js": "/ElwalidZair/myTodoApp.git/static/js/3.b9a1a641.chunk.js",
+    "static/js/3.b9a1a641.chunk.js.map": "/ElwalidZair/myTodoApp.git/static/js/3.b9a1a641.chunk.js.map",
+    "index.html": "/ElwalidZair/myTodoApp.git/index.html",
+    "static/css/main.73082b5b.chunk.css.map": "/ElwalidZair/myTodoApp.git/static/css/main.73082b5b.chunk.css.map",
+    "static/js/2.94b0d324.chunk.js.LICENSE.txt": "/ElwalidZair/myTodoApp.git/static/js/2.94b0d324.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd99ea0b.js",
+    "static/js/2.94b0d324.chunk.js",
+    "static/css/main.73082b5b.chunk.css",
+    "static/js/main.92c54573.chunk.js"
+  ]
+}
